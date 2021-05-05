@@ -11,6 +11,9 @@ Do you want to have a personal discord status with discord rich presence ? This 
     - Discord - Samxvdhn#0677
     - Twitter - [Samxvdhn](https://twitter.com/Samxvdhn)
 
+📂 **Example of config DiscordRP:**
+
+<img src="https://media.discordapp.net/attachments/792763307433000994/839635483712946186/unknown.png"/>
 
 📊 **How to install DiscordRP**
 
