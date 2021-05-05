@@ -19,7 +19,7 @@ Do you want to have a personal discord status with discord rich presence ? This 
 
 Step by Step :
 
-- 1- Create an application on [discord developper portal](https://discord.com/developper/application)
+- 1- Create an application on [discord developper portal](https://discord.com/developers/applications)
 - 2- Add image in part "Rich Presence" with button "Add image"
 - 3- Download code source, and paste you own configuration of rich presence in file "config.js"
 - 4- Open a new powershell
