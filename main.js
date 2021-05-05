@@ -1,8 +1,7 @@
 const { FirstLine, SecondLine, LargeImageName, largeImageText, SmallImageName, smallImageText, DiscordAppID, ButtonName, ButtonURL } = require("./config")
 const RCP = require("discord-rpc");
-const rcp = new RCP.Client({
-    transport: "ipc"
-});
+const browser = typeof window !== 'undefined';
+const rpc = new RPC.Client({ transport: browser ? "websocket" : "ipc"});
 
 rcp.on("ready", () => {
     rcp.setActivity({
@@ -21,4 +20,4 @@ rcp.on("ready", () => {
 
 rcp.login({
     clientId: DiscordAppID
-});
+}).catch(console.error)
