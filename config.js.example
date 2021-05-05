@@ -1,0 +1,11 @@
+module.exports = {
+    FirstLine: "Hello",
+    SecondLine: "github.com/Samxvdhn/DiscordRP",
+    LargeImageName: "htmltag",
+    largeImageText: "Text When Mouse Is On htmltag",
+    SmallImageName: "htmltag",
+    smallImageText: "Text When Mouse Is On Small Image",
+    ButtonName: "Repository DiscordRP",
+    ButtonURL: "https://github.com/Samxvdhn/DiscordRP",
+    DiscordAppID: "83963227430169016"
+}
