@@ -1,6 +1,6 @@
 {
   "name": "discordrp",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "A simple discord rich presence",
   "main": "main.js",
   "dependencies": {
