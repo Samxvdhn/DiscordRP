@@ -15,7 +15,7 @@ rpc.on("ready", () => {
         buttons: [{label: ButtonName, url: ButtonURL}]
     });
 
-    console.log(`DiscordRP is active ! Connected on ${rcp.user.username}`)
+    console.log(`DiscordRP is active ! Connected on ${rpc.user.username}`)
 });
 
 rpc.login({
