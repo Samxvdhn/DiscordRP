@@ -13,7 +13,7 @@ Do you want to have a personal discord status with discord rich presence ? This 
 
 📂 **Example of config DiscordRP:**
 
-<img src="https://media.discordapp.net/attachments/792763307433000994/839635483712946186/unknown.png"/>
+<img src="https://cdn.discordapp.com/attachments/656133790309023745/934108032168755200/unknown.png"/>
 
 📊 **How to install DiscordRP**
 
